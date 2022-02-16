@@ -4,3 +4,12 @@
 .background {
     background-color: #000000;
 }
+
+.navigation{
+	height:50px;
+	width:100%;
+	display:flex;
+	justify-content: space-around;
+	align-content:center;
+	align-items:center;
+}
