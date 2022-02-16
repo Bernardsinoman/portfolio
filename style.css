@@ -2,7 +2,7 @@
 }
 
 .background {
-    background-color: #F2F2F2;
+    background-color: #FFFFFF;
 }
 
 .navigation{
@@ -16,8 +16,16 @@
 
 .navbutton{
 	border: none 1px black;
-	background:#F2F2F2;
+	background:#FFFFFF;
 	padding:12px 7px 12px 7px;
-	color:#4C591E;
+	color:#0090a9;
 	font-family:arial;
+}
+.navbutton:active {
+   	 outline:none;
+	border: none;
+}
+.navbutton:focus {
+   	 outline:none;
+	border: none;
 }
