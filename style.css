@@ -13,3 +13,11 @@
 	align-content:center;
 	align-items:center;
 }
+
+.navbutton{
+	border: none 1px black;
+	background:#F2F2F2;
+	padding:12px 7px 12px 7px;
+	color:#4C591E;
+	font-family:arial;
+}
